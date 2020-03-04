@@ -1,0 +1,21 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "running jest"
+  },
+  "keywords": [
+    "readme",
+    "generate"
+  ],
+  "author": "Sue",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.5",
+    "jest": "^25.1.0",
+    "util": "^0.12.2"
+  }
+}
