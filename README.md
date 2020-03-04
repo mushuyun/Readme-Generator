@@ -1,11 +1,11 @@
 
-		# Project Title
+		#Project Title
 		Readme Generator 
 
-		## Project Description
+		##Project Description
 		Using command-line application to generate readme file
 
-		## Tableofcontents
+		##Tableofcontents
 		Table of contents:
 		
 * [ProjectTitle](#ProjectTitle)
@@ -27,19 +27,19 @@
 		
 ![dependencyUptodate](./assets/deUpdate.png)
 
-		## Instructions
+		##Instructions
 		Following command-line lead to enter answers
 
-		## License 
+		##License 
 		This project is licensed under the MIT 
 
-		## Tests
+		##Tests
 		Running jest
 
-		## Questions
+		##Questions
 		How to make better tests?
 
-		## Contributor 
+		##Contributor 
 		
 ![ProfileImage](https://avatars3.githubusercontent.com/u/56772371?v=4)
 		
