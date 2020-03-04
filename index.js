@@ -117,7 +117,18 @@ async function generate(){
 		\nGitHub: ${gitUrl}
 		`)
 
+		var contributor = (`
+		## Contributor 
+		\n![ProfileImage](${gitProfileImage})
+		\n**${gitName}**
+		\nEmail: ${gitEmail}
+		\nLocation:${gitlocation}
+		\nGitHub: ${gitUrl}
+		`)	
+
 		await writeFileAsync('readMe.md', contents);
+		await writeFileAsync('sue.md', contributor);
+
 		console.log("file generated....");
 	} 	catch (err){
 		console.log(err);

@@ -23,31 +23,31 @@
 * [Questions](#Questions)
 		
 		## Installation
-		1. axios 2.jest 3.util 4.inquirer
+		1. axios 2.util 3.inquirer 4.jest
 		
-	![dependencyUptodate](./assets/deUpdate.png)
+![dependencyUptodate](./assets/deUpdate.png)
 
 		## Instructions
-		Follwoing command-line lead to enter answers
+		Following command-line lead to enter answers
 
 		## License 
 		This project is licensed under the MIT 
 
 		## Tests
-		Runnin jest
+		Running jest
 
 		## Questions
-		How to create better tests?
+		How to make better tests?
 
 		## Contributor 
 		
-	![ProfileImage](https://avatars3.githubusercontent.com/u/56772371?v=4)
+![ProfileImage](https://avatars3.githubusercontent.com/u/56772371?v=4)
 		
-	**mushuyun**
-			
-	Email: rtpice.mu@gmail.com
-			
-	Location: Research Triangle Park , NC
-			
-	GitHub: https://github.com/mushuyun
+**mushuyun**
+		
+Email: null
+		
+Location:Research Triangle Park , NC
+		
+GitHub: https://github.com/mushuyun
 		
